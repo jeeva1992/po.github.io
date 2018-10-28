@@ -1,0 +1,150 @@
+<!--Section: gallery-->
+<section id="gallery" class="text-center py-5">
+
+  <!-- Container -->
+  <div class="container">
+
+      <!-- Section heading -->
+      <h2 class="h1-responsive font-weight-bold mb-5">Our best projects</h2>
+      <!-- Section description -->
+      <p class="grey-text w-responsive mx-auto mb-5">Duis aute irure dolor in reprehenderit in
+          voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+          cupidatat non proident, sunt in culpa qui officia deserunt mollit est laborum.</p>
+
+      <div class="row">
+          <div class="col-md-12">
+
+              <div id="mdb-lightbox-ui">
+                <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+                  <div class="pswp__bg"></div>
+                  <div class="pswp__scroll-wrap">
+                    <div class="pswp__container" style="transform:translate3d(0px,0px,0px);">
+                      <div class="pswp__item" style="display:block;transform: translate3d(-2131px,0px,0px);">
+                      <div class="pswp__zoom-wrap" style="transform:translate3d(314px,44px,0px) scale(1);">
+                          <img class="pswp__img" src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(150).jpg" style ="opacity:1; width:1275px; height:850px;">
+                      </div>
+
+                      </div>
+                      <div class="pswp__item" style="display:block;transform: translate3d(0px,0px,0px);">
+                          <div class="pswp__zoom-wrap" style="transform:translate3d(1144.5px,201.328px,0px) scale(0.277734);">
+                              <img class="pswp__img pswp__img--placeholder" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(152).jpg" style =" width:1275px; height:850px; display:none">
+                              <img class="pswp__img" src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(152).jpg" style ="display:block; width:1275px; height:850px;"> 
+                          </div>
+                        
+                      </div>
+                      <div class="pswp__item" style="display:block;transform: translate3d(2131px,0px,0px);">
+                          
+                        <div class="pswp__zoom-wrap" style="transform:translate3d(314px,44px,0px) scale(1);">
+                              <img class="pswp__img pswp__img--placeholder" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(42).jpg" style =" width:1275px; height:850px; display:none">
+                              <img class="pswp__img" src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(42).jpg" style ="display:block; width:1275px; height:850px;"> 
+                          </div>
+                      
+                      </div> 
+                    </div>
+                    <div class="pswp__ui pswp__ui--fit pswp__ui--hidden">
+                      <div class="pswp__top-bar">
+                        <div class="pswp__container"></div>
+                        <button class="pswp__button pswp__button--close" title="Close(Esc)"></button>
+                        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                        <div class="pswp__preloader">
+                          <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                              <div class="pswp__preloader__donut"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                      </div>
+                      <button class="pswp__button pswp__button--arrow-left" title="Previous (arrow left)"></button>
+                      <button class="pswp__button pswp__button--arrow-right" title="Next (arrow right)"></button>
+                      <div class="pswp__caption">
+                        <div class="pswp__caption__center"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="mdb-lightbox">
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(145).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(145).jpg"
+                              class="img-fluid z-depth-1-half">
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(150).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(150).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(152).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(152).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(42).jpg" data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(42).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(151).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(151).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(40).jpg" data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(40).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(148).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(148).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(147).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(147).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+                  <figure class="col-md-4">
+                      <a href="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(149).jpg"
+                          data-size="1600x1067">
+                          <img src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(149).jpg"
+                              class="img-fluid z-depth-1-half" />
+                      </a>
+                  </figure>
+
+              </div>
+
+          </div>
+      </div>
+
+  </div>
+  <!-- Container -->
+
+</section>
+<!--Section: gallery-->
